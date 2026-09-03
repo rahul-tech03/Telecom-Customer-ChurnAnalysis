@@ -1,4 +1,4 @@
-# PwC Switzerland Power BI Job Simulation on Forage - September 2024
+# Telecom revenue, Customer churn, diversity and Inclusion analysis using Power BI
 
  * Completed a job simulation where I strengthened my PowerBI skills to better
    understand clients and their data visualisation needs.
